@@ -19,7 +19,7 @@ terraform plan -var-file terraform.tfvars
 terraform apply -var-file terraform.tfvars
 ```
 
-### Destroy
+#### Destroy
 
 ```
 terraform destroy -var-file terraform.tfvars
